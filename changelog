@@ -1,0 +1,11 @@
+libjaneth-power (1.0-2) precise; urgency=low
+
+  * First version for testing
+
+ -- Jerome Maye <jerome.maye@mavt.ethz.ch>  Thu, 16 May 2013 13:31:15 +0000
+
+libjaneth-power (1.0-1) lucid; urgency=low
+
+  * Initial release
+
+ -- Jerome Maye <jerome.maye@mavt.ethz.ch>  Thu, 16 May 2013 10:09:12 +0000
