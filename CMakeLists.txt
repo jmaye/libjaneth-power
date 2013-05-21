@@ -46,7 +46,7 @@ remake_pack_deb(
 remake_distribute_deb(
   DISTRIBUTION lucid
   SECTION libs
-  UPLOAD ppa:jmaye/ethz
+  UPLOAD ppa:jmaye/janeth
   DEPENDS remake doxygen pkg-config
   PASS CMAKE_BUILD_TYPE LIBJANETH_POWER_GIT_REVISION
 )
@@ -54,7 +54,7 @@ remake_distribute_deb(
 remake_distribute_deb(
   DISTRIBUTION precise
   SECTION libs
-  UPLOAD ppa:jmaye/ethz
+  UPLOAD ppa:jmaye/janeth
   DEPENDS remake doxygen pkg-config
   PASS CMAKE_BUILD_TYPE LIBJANETH_POWER_GIT_REVISION
 )

@@ -1,3 +1,9 @@
+libjaneth-power (1.0-3) lucid; urgency=low
+
+  * changing ppa to janeth
+
+ -- Jerome Maye <jerome.maye@mavt.ethz.ch>  Tue, 21 May 2013 21:38:59 +0200
+
 libjaneth-power (1.0-2) precise; urgency=low
 
   * First version for testing
