@@ -1,3 +1,9 @@
+libjaneth-power (1.0-4) lucid; urgency=low
+
+  * modifying pkg-config 
+
+ -- Jerome Maye <jerome.maye@mavt.ethz.ch>  Fri, 26 Jul 2013 13:59:45 +0200
+
 libjaneth-power (1.0-3) lucid; urgency=low
 
   * changing ppa to janeth
